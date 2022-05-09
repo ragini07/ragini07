@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently learning Web Development and building exciting projects
-- 🌱 Working as a QA Analyst at TCS . My skills in testing is helping me a lot in learning web development
 - 👨‍💻 My <a href="">[Resume](https://github.com/ragini07/ragini07/files/8457283/Ragini.s-Resume.pdf)</a>
 - 👨‍💻 Earned 3 star at <a href="https://www.hackerrank.com/meragini07">HackerRank</a> in Problem Solving Skill.
 
